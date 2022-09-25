@@ -11,7 +11,7 @@
 ## Overview
 
 ### Description
-Tindog is a practice web design created by Dr. Angela of Udemy. This project is step by step process thats built with basic componenets of bootstrap and css. This will help learners/students understand the fundamentals of Boostsrap 5. Following thorugh this tutorial is really worth it, so give it a try. [Links here](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+Tindog is a practice web design created by Dr. Angela of Udemy. This project is step by step process thats built with basic componenets of bootstrap and css. This will help learners/students understand the fundamentals of Boostsrap 5. Following through this tutorial is really worth it, so give it a try. [Links here](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ### Links
 - [Source code](https://github.com/Carlozzzzz/Udemy_Tindog)
